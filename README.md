@@ -9,19 +9,11 @@
 <h1>
   <p align="center">
     👋 <b>Hi! I'm Diovi Robinet [Full Stack Developer]</b>
+    <a href="https://drobinetm.github.io/drobinetm-portfolio" />
   </p>
 </h1>
 
- <!-- Other data -->
- ## ✔️ [Check My Porfolio](https://drobinetm.github.io/drobinetm-portfolio/)
-
- ## ✔️ My Skills Include
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drobinetm&&theme=dark&layout=compact" alt="stats-github" />
-</p>
-
-## ✔️ Stats
+## ✔️  Github Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drobinetm&show_icons=true&theme=dark" alt="stats-github" /></p>
 
