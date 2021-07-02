@@ -12,9 +12,9 @@
 </h1>
 
  <!-- Other data -->
- # ✔️ [Check My Porfolio](https://drobinetm.github.io/drobinetm-portfolio/)
+ ## ✔️ [Check My Porfolio](https://drobinetm.github.io/drobinetm-portfolio/)
 
-# ✔️ Stats
+## ✔️ Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drobinetm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
