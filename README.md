@@ -20,4 +20,18 @@
 
 # ✔️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-159672%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Havana
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 02/07/2021
 <!--END_SECTION:waka-->
