@@ -59,16 +59,4 @@ Saturday     2 commits      ░░░░░░░░░░░░░░░░░�
 Sunday       45 commits     ████████░░░░░░░░░░░░░░░░░   34.09%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 02/07/2021
 <!--END_SECTION:waka-->
