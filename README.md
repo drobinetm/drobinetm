@@ -14,7 +14,7 @@
     <br>
      <sup><sup><sub> 
         Check my Portfolio
-        <a name="link-portfolio" href="https://drobinetm.github.io/drobinetm-portfolio">Link</a>
+        <a name="link-portfolio" target="_blank" href="https://drobinetm.github.io/drobinetm-portfolio">Link</a>
      </sub></sup></sup> 
   </p>
 </h1>
