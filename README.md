@@ -14,16 +14,10 @@
  <!-- Other data -->
  # ✔️ [Check My Porfolio](https://drobinetm.github.io/drobinetm-portfolio/)
 
-# ✔️ Latest Blog Posts
-
-# ✔️ Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 # ✔️ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drobinetm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# ✔️ GitHub Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drobinetm&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# ✔️ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
