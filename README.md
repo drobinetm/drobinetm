@@ -1,16 +1,15 @@
-### Hi there 👋
+# <center>👋 Hi! I'm Diovi Robinet.I'm Full Stack Developer</center>
 
-<!--
-**drobinetm/drobinetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <center> [![Linkedin Badge](https://img.shields.io/badge/-drobinet-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diovi-robinet-578782ab/)](https://www.linkedin.com/in/diovi-robinet-578782ab/) | [![Website Badge](https://img.shields.io/badge/Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://drobinetm.github.io/drobinetm-portfolio/)](https://drobinetm.github.io/drobinetm-portfolio/) | [![Gmail Badge](https://img.shields.io/badge/-drobinetm-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:drobinetmorales@gmail.com)](mailto:drobinetmorales@gmail.com)
+</center>
 
-Here are some ideas to get you started:
+### <center>[Check My Porfolio](https://drobinetm.github.io/drobinetm-portfolio/)</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 📙 Latest Blog Posts
+
+# 📊 Weekly Development Breakdown
+
+# 🔆 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drobinetm)](https://github.com/anuraghazra/github-readme-stats)
