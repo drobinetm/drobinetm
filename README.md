@@ -17,8 +17,8 @@
 # ✔️ Latest Blog Posts
 
 # ✔️ Weekly Development Breakdown
- <!-- waka-box start -->
- <!-- waka-box end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # ✔️ GitHub Stats
 
