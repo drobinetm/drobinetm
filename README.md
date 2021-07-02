@@ -1,17 +1,20 @@
-<p align="center" style="font-size:30px;">
-    👋 <b>Hi! I'm Diovi Robinet</b><br>
-    <b>I'm Full Stack Developer</b>
-</p>
+<h1>
+  <p align="center">
+    👋 <b>Hi! I'm Diovi Robinet</b>
+  </p>
+</h1>
 
-### <center><h2> [![Linkedin Badge](https://img.shields.io/badge/-drobinet-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diovi-robinet-578782ab/)](https://www.linkedin.com/in/diovi-robinet-578782ab/) [![Website Badge](https://img.shields.io/badge/Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://drobinetm.github.io/drobinetm-portfolio/)](https://drobinetm.github.io/drobinetm-portfolio/) [![Gmail Badge](https://img.shields.io/badge/-drobinetm-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:drobinetmorales@gmail.com)](mailto:drobinetmorales@gmail.com)
-</h2></center>
-
-### <center><h5>[Check My Porfolio](https://drobinetm.github.io/drobinetm-portfolio/)</h5></center>
+###   
+  [![Linkedin Badge](https://img.shields.io/badge/-drobinet-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diovi-robinet-578782ab/)](https://www.linkedin.com/in/diovi-robinet-578782ab/) 
+  [![Website Badge](https://img.shields.io/badge/Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://drobinetm.github.io/drobinetm-portfolio/)](https://drobinetm.github.io/drobinetm-portfolio/) 
+  [![Gmail Badge](https://img.shields.io/badge/-drobinetm-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:drobinetmorales@gmail.com)](mailto:drobinetmorales@gmail.com)
 
  <!-- New line -->
 </br><hr>
 
  <!-- Other data -->
+ # ✔️ [Check My Porfolio](https://drobinetm.github.io/drobinetm-portfolio/)
+
 # ✔️ Latest Blog Posts
 
 # ✔️ Weekly Development Breakdown
