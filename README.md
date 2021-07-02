@@ -9,9 +9,10 @@
 <h1>
   <p align="center">
     👋 <b>Hi! I'm Diovi Robinet [Full Stack Developer]</b>
-     <sup><sup><sub> 
-        <a name="235ffda" href="https://drobinetm.github.io/drobinetm-portfoli">Check my Portfolio</a>
-     </sub></sup></sup> 
+     <sup>
+        Check my Portfolio
+        <a name="235ffda" href="https://drobinetm.github.io/drobinetm-portfoli">Link</a>
+     </sub>
   </p>
 </h1>
 
