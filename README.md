@@ -3,7 +3,7 @@
   [![Website Badge](https://img.shields.io/badge/Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://drobinetm.github.io/drobinetm-portfolio/)](https://drobinetm.github.io/drobinetm-portfolio/) 
   [![Gmail Badge](https://img.shields.io/badge/-drobinetm-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:drobinetmorales@gmail.com)](mailto:drobinetmorales@gmail.com)
 
-</br></br>
+</br>
 
 <h1>
   <p align="center">
@@ -14,7 +14,7 @@
  <!-- Other data -->
  # ✔️ [Check My Porfolio](https://drobinetm.github.io/drobinetm-portfolio/)
 
-# ✔️ GitHub Stats
+# ✔️ GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drobinetm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
