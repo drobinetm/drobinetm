@@ -75,8 +75,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on: 
- ```php 
-     echo date('Y-m-d') 
- ```
+ Last Updated on: ``` now ```
 <!--END_SECTION:waka-->
