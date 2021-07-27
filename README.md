@@ -75,8 +75,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on: 
- ```php 
-     echo date('m-d-Y h:i:s a', time())
- ```
+ Last Updated on: touch `date +"%Y.%m.%d.md"`
 <!--END_SECTION:waka-->
