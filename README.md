@@ -75,5 +75,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on: ``` now ```
+ Last Updated on: date("Y-m-d H:i:s")
 <!--END_SECTION:waka-->
