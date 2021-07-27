@@ -75,5 +75,8 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on date: "`r format(Sys.time(), '%d %B, %Y')`"
+ Last Updated on: 
+ ```php 
+     echo date('Y-m-d') 
+ ```
 <!--END_SECTION:waka-->
