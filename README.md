@@ -75,5 +75,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on now "yyyy/MM/dd"
+ Last Updated on date: "`r format(Sys.time(), '%d %B, %Y')`"
 <!--END_SECTION:waka-->
