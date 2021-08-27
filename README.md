@@ -21,7 +21,9 @@
      <sup><sup><sub> 
         Check my Portfolio
         <a name="link-portfolio" target="_blank" href="https://drobinetm.github.io/drobinetm-portfolio">Link</a>
-     </sub></sup></sup> 
+     </sub></sup></sup>
+    <br>
+    ![](https://komarev.com/ghpvc/?username=drobinetm&style=plastic)
   </p>
 </h1>
 
