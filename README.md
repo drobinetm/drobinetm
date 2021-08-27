@@ -23,7 +23,9 @@
         <a name="link-portfolio" target="_blank" href="https://drobinetm.github.io/drobinetm-portfolio">Link</a>
      </sub></sup></sup>
     <br>
-    ![](https://komarev.com/ghpvc/?username=drobinetm&style=plastic)
+     <a href="https://github.com/drobinetm">
+      <img src="https://komarev.com/ghpvc/?username=drobinetm&style=plastic" alt="profile-views" />
+     </a>
   </p>
 </h1>
 
