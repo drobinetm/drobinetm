@@ -62,7 +62,8 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 18 mins             ████████████████████████░   98.17% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 ```
 
@@ -79,5 +80,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2021
+ Last Updated on 03/09/2021
 <!--END_SECTION:waka-->
