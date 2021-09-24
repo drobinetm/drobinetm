@@ -35,11 +35,11 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 118 Contributions in the Year 2021
  > 
-> 📦 14.8 kB Used in Github's Storage 
+> 📦 14.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,5 +79,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2021
+ Last Updated on 24/09/2021
 <!--END_SECTION:waka-->
