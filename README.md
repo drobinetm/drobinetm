@@ -62,8 +62,7 @@
 
 ```text
 💬 Programming Languages: 
-PHP                      2 hrs 7 mins        ████████████████░░░░░░░░░   65.05% 
-HTML                     1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   34.95%
+No Activity Tracked This Week
 
 ```
 
@@ -80,5 +79,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
