@@ -35,6 +35,8 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2015%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 127 Contributions in the Year 2021
@@ -79,5 +81,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2021
+ Last Updated on 03/12/2021
 <!--END_SECTION:waka-->
