@@ -35,17 +35,15 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%201%20min-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 129 Contributions in the Year 2021
+> 🏆 130 Contributions in the Year 2021
  > 
-> 📦 14.9 kB Used in GitHub's Storage 
+> 📦 15.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -64,7 +62,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      8 hrs 38 mins       ████████████████████████░   95.54% 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 ```
 
@@ -81,5 +83,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2021
+ Last Updated on 17/12/2021
 <!--END_SECTION:waka-->
