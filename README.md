@@ -35,6 +35,8 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2055%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 130 Contributions in the Year 2021
