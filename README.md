@@ -35,17 +35,15 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2055%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 133 Contributions in the Year 2021
+> 🏆 142 Contributions in the Year 2021
  > 
 > 📦 15.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -64,11 +62,8 @@
 
 ```text
 💬 Programming Languages: 
-PHP                      8 hrs 39 mins       ███████████████████████░░   93.5% 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
-Blade Template           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Blade Template           11 mins             ██████████████████████░░░   87.53% 
+PHP                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.47%
 
 ```
 
@@ -85,5 +80,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2021
+ Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
