@@ -35,6 +35,8 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2057%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 142 Contributions in the Year 2021
@@ -62,8 +64,7 @@
 
 ```text
 💬 Programming Languages: 
-Blade Template           11 mins             ██████████████████████░░░   87.53% 
-PHP                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.47%
+PHP                      1 min               █████████████████████████   100.0%
 
 ```
 
