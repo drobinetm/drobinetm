@@ -35,7 +35,7 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,5 +83,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2022 06:24:19 UTC
+ Last Updated on 25/02/2022 06:53:25 UTC
 <!--END_SECTION:waka-->
