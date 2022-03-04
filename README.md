@@ -35,8 +35,6 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2025%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
@@ -85,5 +83,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2022 04:53:06 UTC
+ Last Updated on 04/03/2022 05:01:43 UTC
 <!--END_SECTION:waka-->
