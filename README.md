@@ -35,8 +35,6 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2020%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
@@ -64,10 +62,7 @@
 
 ```text
 💬 Programming Languages: 
-PHP                      4 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.66% 
-CSS                      2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.15% 
-Twig                     1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   22.36% 
-HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.84%
+No Activity Tracked This Week
 
 ```
 
@@ -84,5 +79,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2022 01:17:18 UTC
+ Last Updated on 18/03/2022 00:52:20 UTC
 <!--END_SECTION:waka-->
