@@ -35,7 +35,7 @@
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,25 +49,6 @@
  > 
 > 🔑 6 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    12 commits     █████░░░░░░░░░░░░░░░░░░░░   22.64% 
-🌆 Daytime    24 commits     ███████████░░░░░░░░░░░░░░   45.28% 
-🌃 Evening    14 commits     ██████░░░░░░░░░░░░░░░░░░░   26.42% 
-🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -81,5 +62,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2022 00:01:06 UTC
+ Last Updated on 16/09/2022 01:27:43 UTC
 <!--END_SECTION:waka-->
