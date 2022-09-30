@@ -49,25 +49,6 @@
  > 
 > 🔑 6 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    9 commits      █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-🌆 Daytime    18 commits     ███████████░░░░░░░░░░░░░░   46.15% 
-🌃 Evening    9 commits      █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-🌙 Night      3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -81,5 +62,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2022 02:29:44 UTC
+ Last Updated on 30/09/2022 02:00:10 UTC
 <!--END_SECTION:waka-->
