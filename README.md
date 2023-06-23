@@ -10,18 +10,11 @@
   </a>
 </p>
 
-</br>
-
 <h1>
   <p align="center">
     <!--Grettings-->
     👋 <b>Hi! I'm Diovi Robinet [Full Stack Developer]</b>
     <!--Portfolio Link-->
-    <br>
-     <sup><sup><sub> 
-        Check my Portfolio
-        <a name="link-portfolio" target="_blank" href="https://drobinetm.github.io/drobinetm-portfolio">Link</a>
-     </sub></sup></sup>
     <br>
      <a href="https://github.com/drobinetm">
       <img src="https://komarev.com/ghpvc/?username=drobinetm&style=plastic" alt="profile-views" />
