@@ -24,7 +24,7 @@
 
 ## ✔️  Github Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drobinetm&show_icons=true&theme=dark" alt="stats-github" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drobinetm&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="stats-github" /></p>
 
 ## ✔️ Development Breakdown
 <!--START_SECTION:waka-->
@@ -42,6 +42,7 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+
 **I'm an Early 🐤** 
 
 ```text
@@ -50,7 +51,6 @@
 🌃 Evening                66 commits          ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
 🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 ```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -68,9 +68,6 @@ Python                   2 repos             ████░░░░░░░�
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
-
-
-
 
  Last Updated on 23/06/2023 03:59:38 UTC
 <!--END_SECTION:waka-->
