@@ -1,73 +1,122 @@
+<h1 align="center">Hi, I'm Diovi Robinet 👋</h1>
+
+<p align="center">
+  <strong>Full Stack Developer</strong> | Building practical software with a focus on clean UX, performance, and maintainability.
+</p>
+
+<p align="center">
+  💻 Full Stack Developer | 🚀 Building useful products
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/diovi-robinet-578782ab/">
-  <img src="https://img.shields.io/badge/-drobinet-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diovi-robinet-578782ab/" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://drobinetm.github.io/drobinetm-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://drobinetm.github.io/drobinetm-portfolio/" alt="portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-47CCCC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:drobinetmorales@gmail.com">
-   <img src="https://img.shields.io/badge/-drobinetm-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:drobinetmorales@gmail.com" alt="gmail-email" />
+    <img src="https://img.shields.io/badge/Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<h1>
-  <p align="center">
-    <!--Grettings-->
-    👋 <b>Hi! I'm Diovi Robinet [Full Stack Developer]</b>
-    <!--Portfolio Link-->
-    <br>
-     <a href="https://github.com/drobinetm">
-      <img src="https://komarev.com/ghpvc/?username=drobinetm&style=plastic" alt="profile-views" />
-     </a>
-  </p>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+</p>
 
-## ✔️  Github Stats
+<blockquote>
+  <p>Developer focused on building reliable products, shipping fast, and keeping the codebase easy to understand.</p>
+</blockquote>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drobinetm&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="stats-github" /></p>
+## Current Focus
 
-## ✔️ Development Breakdown
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2020%20mins-blue)
+- Web applications and full stack features
+- Clean architecture and maintainable code
+- Productive workflows with modern tooling
 
-**🐱 My GitHub Data** 
+## Current Projects
 
-> 📦 38.0 kB Used in GitHub's Storage 
- > 
-> 🏆 3 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 43 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
+- <strong><a href="https://github.com/drobinetm/tcg-engineering-technical-project">TCG Engineering Technical Project</a></strong> - Build an MVP SaaS used internally by The Cloud Group to execute the TCG Engineering Framework across projects.
+- <strong><a href="https://github.com/drobinetm/testing_stripe_vite">Stripe Vite Template</a></strong> - Template tool for making high-quality FastAPI project with Stripe and Vite.
+- <strong><a href="https://github.com/drobinetm/comercial_technical_project">Commercial Technical Project</a></strong> - Technical test for Laravel and Vue 3. Simple project with more solid concepts.
+- <strong><a href="https://github.com/drobinetm/portfolios">Portfolios</a></strong> - Repository with diferents porfolios projects.
+- <strong><a href="https://github.com/drobinetm/technical-tests">Technical Tests</a></strong> - Repository with diferents technical tests projects.
+- <strong><a href="https://github.com/drobinetm/python-otp">Python OTP</a></strong> -
+- <strong><a href="https://github.com/drobinetm/wp_custom_react-4p">WordPress Custom React 4P</a></strong> -
+- <strong><a href="https://github.com/drobinetm/wp_docker_template">WordPress Docker Template</a></strong> -
+- <strong><a href="https://github.com/drobinetm/wp_custom_themes-4p">WordPress Custom Themes 4P</a></strong> -
+- <strong><a href="https://github.com/drobinetm/odoo-rest-api">Odoo REST API</a></strong> - Module restapi modified to create api option in Odoo ERP.
+- <strong><a href="https://github.com/drobinetm/okd-cluster-deploy">OKD Cluster Deploy</a></strong> - This project raises a local OKD 4.x cluster on Ubuntu with VirtualBox, Vagrant and Ansible.
+- <strong><a href="https://github.com/drobinetm/python-recipes">Python Recipes</a></strong> -
+- <strong><a href="https://github.com/drobinetm/print-ai-microservices">Print AI Microservices</a></strong> - Technical test project developed with poetry.
+- <strong><a href="https://github.com/drobinetm/wallet-digital-project">Wallet Digital Project</a></strong> - Wallet and Credit System.
+- <strong><a href="https://github.com/drobinetm/permify-php-sdk">Permify PHP SDK</a></strong> -
+- <strong><a href="https://github.com/drobinetm/python-telegram">Python Telegram</a></strong> -
+- <strong><a href="https://github.com/drobinetm/laravel-drobinetm-wallet">Laravel Wallet</a></strong> - Laravel project for wallet economic.
+- <strong><a href="https://github.com/drobinetm/drm-ng-countries-flags">Countries Flags Angular Library</a></strong> - Angular library to list the countries and their flags in a selection component.
+- <strong><a href="https://github.com/drobinetm/drobinetm-finances">Drobinetm Finances</a></strong> -
+- <strong><a href="https://github.com/drobinetm/laravel-drobinetm-storage-logs">Laravel Storage Logs</a></strong> -
+- <strong><a href="https://github.com/drobinetm/laravel-drobinetm-voyager-blog">Laravel Voyager Blog</a></strong> - Laravel package to create blog in the project.
+- <strong><a href="https://github.com/drobinetm/laravel-drobinetm-events">Laravel Events</a></strong> - Laravel package to store events of a project.
+- <strong><a href="https://github.com/drobinetm/registry-commands">Registry Commands</a></strong> -
 
-**I'm an Early 🐤** 
+## About Me
 
-```text
-🌞 Morning                60 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-🌆 Daytime                127 commits         ████████████░░░░░░░░░░░░░   46.69 % 
-🌃 Evening                66 commits          ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-```
+- I work across backend and frontend.
+- I like simple, direct, and scalable solutions.
+- I enjoy turning ideas into usable software.
 
-📊 **This Week I Spent My Time On** 
+## Skills Summary
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
-TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-
- Last Updated on 23/06/2023 03:59:38 UTC
-<!--END_SECTION:waka-->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>Cloud architecture and scalable system design</li>
+        <li>Full stack development</li>
+        <li>Database optimization and query performance tuning</li>
+        <li>API design and integration</li>
+        <li>Containerization and orchestration</li>
+        <li>Microservices architecture development and maintenance</li>
+        <li>Security-first development practices and compliance implementation</li>
+        <li>Cross-platform application development</li>
+        <li>Test-driven development and quality assurance</li>
+        <li>Framework proficiency across languages</li>
+        <li>Codebase refactoring and legacy systems modernization</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Serverless architecture and cloud functions implementation</li>
+        <li>Data modeling and schema design</li>
+        <li>Responsive and adaptive web design</li>
+        <li>Static site generators and modern build tools</li>
+        <li>Backend optimization for high-concurrency systems</li>
+        <li>Authentication and authorization protocols</li>
+        <li>DevOps automation for deployment and scaling</li>
+        <li>Advanced debugging and issue resolution</li>
+        <li>Event-driven architecture and asynchronous processing</li>
+        <li>Data visualization and reporting tools integration</li>
+        <li>Big data processing and analysis</li>
+      </ul>
+    </td>
+  </tr>
+</table>
