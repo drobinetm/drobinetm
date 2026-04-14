@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Diovi Robinet 👋</h1>
+<p align="center">
+  <img src="./senior.png" alt="Senior developer avatar" width="72" />
+</p>
+
+<h1 align="center">Hi, I'm Diovi Robinet Morales 👋</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> | Building practical software with a focus on clean UX, performance, and maintainability.
@@ -43,48 +47,48 @@
 </p>
 
 <blockquote>
-  <p>Developer focused on building reliable products, shipping fast, and keeping the codebase easy to understand.</p>
+  <p>🔘 Developer focused on building reliable products, shipping fast, and keeping the codebase easy to understand.</p>
 </blockquote>
 
-## Current Focus
+## 📑 Professional Summary
+
+I’m a Software Engineer with over 6 years of experience, committed to constructing reliable and maintainable software. My work is
+motivated by a respect for best practices and a dedication to crafting clean, efficient code. I enjoy acquiring knowledge and implementing
+software architecture principles, design patterns, and Test-Driven Development (TDD) to generate thoughtful, lasting solutions. I am to keep
+evolving as a developer, always striving to contribute positively to each project and team.
+
+## 📑 Current Focus
 
 - Web applications and full stack features
 - Clean architecture and maintainable code
 - Productive workflows with modern tooling
 
-## Current Projects
+## 📑 Current Projects
 
-- <strong><a href="https://github.com/drobinetm/tcg-engineering-technical-project">TCG Engineering Technical Project</a></strong> - Build an MVP SaaS used internally by The Cloud Group to execute the TCG Engineering Framework across projects.
 - <strong><a href="https://github.com/drobinetm/testing_stripe_vite">Stripe Vite Template</a></strong> - Template tool for making high-quality FastAPI project with Stripe and Vite.
 - <strong><a href="https://github.com/drobinetm/comercial_technical_project">Commercial Technical Project</a></strong> - Technical test for Laravel and Vue 3. Simple project with more solid concepts.
 - <strong><a href="https://github.com/drobinetm/portfolios">Portfolios</a></strong> - Repository with diferents porfolios projects.
 - <strong><a href="https://github.com/drobinetm/technical-tests">Technical Tests</a></strong> - Repository with diferents technical tests projects.
-- <strong><a href="https://github.com/drobinetm/python-otp">Python OTP</a></strong> -
-- <strong><a href="https://github.com/drobinetm/wp_custom_react-4p">WordPress Custom React 4P</a></strong> -
-- <strong><a href="https://github.com/drobinetm/wp_docker_template">WordPress Docker Template</a></strong> -
-- <strong><a href="https://github.com/drobinetm/wp_custom_themes-4p">WordPress Custom Themes 4P</a></strong> -
+- <strong><a href="https://github.com/drobinetm/python-otp">Python OTP</a></strong> - Tool for generating OTPs with Python.
+- <strong><a href="https://github.com/drobinetm/wp_custom_react-4p">WordPress Custom React 4P</a></strong> - Project template for WordPress with React 4P.
+- <strong><a href="https://github.com/drobinetm/wp_docker_template">WordPress Docker Template</a></strong> - Project template for WordPress with Docker.
+- <strong><a href="https://github.com/drobinetm/wp_custom_themes-4p">WordPress Custom Themes 4P</a></strong> - Project template for WordPress with React 4P.
 - <strong><a href="https://github.com/drobinetm/odoo-rest-api">Odoo REST API</a></strong> - Module restapi modified to create api option in Odoo ERP.
 - <strong><a href="https://github.com/drobinetm/okd-cluster-deploy">OKD Cluster Deploy</a></strong> - This project raises a local OKD 4.x cluster on Ubuntu with VirtualBox, Vagrant and Ansible.
-- <strong><a href="https://github.com/drobinetm/python-recipes">Python Recipes</a></strong> -
+- <strong><a href="https://github.com/drobinetm/python-recipes">Python Recipes</a></strong> - Different recipes for Python with code examples.
 - <strong><a href="https://github.com/drobinetm/print-ai-microservices">Print AI Microservices</a></strong> - Technical test project developed with poetry.
 - <strong><a href="https://github.com/drobinetm/wallet-digital-project">Wallet Digital Project</a></strong> - Wallet and Credit System.
-- <strong><a href="https://github.com/drobinetm/permify-php-sdk">Permify PHP SDK</a></strong> -
-- <strong><a href="https://github.com/drobinetm/python-telegram">Python Telegram</a></strong> -
+- <strong><a href="https://github.com/drobinetm/permify-php-sdk">Permify PHP SDK</a></strong> - Simple SDK for Permify that provides a simple interface to interact with Permify.
+- <strong><a href="https://github.com/drobinetm/python-telegram">Python Telegram</a></strong> - Simple Telegram bot developed with poetry.
 - <strong><a href="https://github.com/drobinetm/laravel-drobinetm-wallet">Laravel Wallet</a></strong> - Laravel project for wallet economic.
 - <strong><a href="https://github.com/drobinetm/drm-ng-countries-flags">Countries Flags Angular Library</a></strong> - Angular library to list the countries and their flags in a selection component.
-- <strong><a href="https://github.com/drobinetm/drobinetm-finances">Drobinetm Finances</a></strong> -
-- <strong><a href="https://github.com/drobinetm/laravel-drobinetm-storage-logs">Laravel Storage Logs</a></strong> -
+- <strong><a href="https://github.com/drobinetm/drobinetm-finances">Drobinetm Finances</a></strong> - Small project to manage personal finances.
+- <strong><a href="https://github.com/drobinetm/laravel-drobinetm-storage-logs">Laravel Storage Logs</a></strong> - Laravel package to store logs of storage.
 - <strong><a href="https://github.com/drobinetm/laravel-drobinetm-voyager-blog">Laravel Voyager Blog</a></strong> - Laravel package to create blog in the project.
 - <strong><a href="https://github.com/drobinetm/laravel-drobinetm-events">Laravel Events</a></strong> - Laravel package to store events of a project.
-- <strong><a href="https://github.com/drobinetm/registry-commands">Registry Commands</a></strong> -
+- <strong><a href="https://github.com/drobinetm/registry-commands">Registry Commands</a></strong> - Laravel package to store commands of a project.
 
-## About Me
-
-- I work across backend and frontend.
-- I like simple, direct, and scalable solutions.
-- I enjoy turning ideas into usable software.
-
-## Skills Summary
+## 📑Skills Summary
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
