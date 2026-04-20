@@ -63,6 +63,10 @@ evolving as a developer, always striving to contribute positively to each projec
 - Clean architecture and maintainable code
 - Productive workflows with modern tooling
 
+## 📑 Projects Focus
+
+- <strong><a href="https://drm-multitabs-docs.netlify.app/">Component MultiTabs</a></strong> - A component for rendering fixed tabs in the style of web browsers, featuring drag-and-drop functionality, tab persistence, route-based navigation, and reload hooks for Vue, React, and Angular applications—without imposing a specific layout system..
+
 ## 📑 Current Projects
 
 - <strong><a href="https://github.com/drobinetm/testing_stripe_vite">Stripe Vite Template</a></strong> - Template tool for making high-quality FastAPI project with Stripe and Vite.
