@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./senior.png" alt="Senior developer avatar" width="72" />
+  <img src="./senior.png" alt="Senior developer avatar" width="140" />
 </p>
 
 <h1 align="center">Hi, I'm Diovi Robinet Morales 👋</h1>
