@@ -65,7 +65,8 @@ evolving as a developer, always striving to contribute positively to each projec
 
 ## 📑 Projects Focus
 
-- <strong><a href="https://drm-multitabs-docs.netlify.app/">Component MultiTabs</a></strong> - A component for rendering fixed tabs in the style of web browsers, featuring drag-and-drop functionality, tab persistence, route-based navigation, and reload hooks for Vue, React, and Angular applications—without imposing a specific layout system..
+- <strong><a href="https://drm-multitabs-docs.netlify.app/">Component MultiTabs</a></strong> - A component for rendering fixed tabs in the style of web browsers, featuring drag-and-drop functionality, tab persistence, route-based navigation, and reload hooks for Vue, React, and Angular applications—without imposing a specific layout system.
+- <strong><a href="https://drm-countries-flags.netlify.app/">Countries & Flags</a></strong> - A handy library for adding a component to Angular, React, and Vue showing a countries-and-flags selector with search, filtering, and fast browsing. Works with Angular Material, TailwindCSS, Bootstrap, PrimeNG, Vuetify, and shadcn/ui; flags come from the <code>flag-icons</code> package.
 
 ## 📑 Current Projects
 
